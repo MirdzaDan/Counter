@@ -21,7 +21,7 @@ btns.forEach(function (btn) {
             value.style.color = "green";
         }
         if (count < 0){
-            value.style.color = "orange";
+            value.style.color = "red";
         }
         if (count === 0){
             value.style.color = "#222";
